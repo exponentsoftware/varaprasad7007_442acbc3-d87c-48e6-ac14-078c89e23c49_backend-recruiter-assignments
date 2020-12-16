@@ -1,34 +1,31 @@
-homepage,size
-https://chvin.github.io/react-tetris/?lan=en,4319
-https://binaryify.github.io/vue-tetris/,1671
-https://hextris.io,27336
-https://flatris.space/,18151
-http://aerolab.github.io/blockrain.js,1248
-,39892
-,81
-,11
-https://dionyziz.com/graphics/canvas-tetris/,23
-,141
-http://ttencate.github.io/tis,160
-,15
-,20
-,45764
-leeyiyuan.github.io/tetrisai,50
-https://mimstris.surge.sh,2419
-https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057,1221
-,912
-,1116
-,166
-https://slugo.github.io/redux-tetris/,1075
-https://tetrys.herokuapp.com,305
-https://tetris.joshbassett.info,2880
-,24
-,389
-www.smashinglabs.pl,96
-https://sacert.github.io/Quick-Tetris/,1324
-https://brandly.github.io/react-tetris/,1463
-,8
-,64
-
-
-
+homepage,size,language,watchers,description,name,full_name
+https://chvin.github.io/react-tetris/?lan=en,4319,JavaScript,6328,"Use React, Redux, Immutable to code Tetris. 🎮",react-tetris,chvin/react-tetris
+https://binaryify.github.io/vue-tetris/,1671,JavaScript,2254,"Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块 ",vue-tetris,Binaryify/vue-tetris
+https://hextris.io,27336,JavaScript,1683,Fast paced HTML5 puzzle game inspired by Tetris!,hextris,Hextris/hextris
+https://flatris.space/,18151,JavaScript,1145,Fast-paced two-player web game,flatris,skidding/flatris
+http://aerolab.github.io/blockrain.js,1248,JavaScript,842,HTML5 Tetris Game for jQuery,blockrain.js,Aerolab/blockrain.js
+,39892,JavaScript,605,计算机系统要素-从零开始构建现代计算机,nand2tetris,woai3c/nand2tetris
+,81,JavaScript,545,Tetris in 512b,mini-tetris,veu/mini-tetris
+,11,JavaScript,351,,tetris-on-a-plane,jstimpfle/tetris-on-a-plane
+https://dionyziz.com/graphics/canvas-tetris/,23,JavaScript,343,A 2D tetris game in HTML5 canvas,canvas-tetris,dionyziz/canvas-tetris
+,141,JavaScript,149,Play tetris in your terminal - in color,tetris,mafintosh/tetris
+http://ttencate.github.io/tis,160,JavaScript,131,An embeddable Tetris clone without dependencies in 4 kB of JavaScript,tis,ttencate/tis
+,15,JavaScript,129,A hacked together Tetris lacking design completely. Edit: it now has a little design.,tetris,meth-meth-method/tetris
+,20,JavaScript,129,This is a simple no nonsense version of Tetris that has no styling,Tetris-Basic,kubowania/Tetris-Basic
+,45764,JavaScript,123,A pure javascript game written on react-native framework. Brings the childhood memories back!,react-native-tetris,ggomaeng/react-native-tetris
+leeyiyuan.github.io/tetrisai,50,JavaScript,121,A Tetris AI written in Javascript,tetrisai,LeeYiyuan/tetrisai
+https://mimstris.surge.sh,2419,JavaScript,114,A falling block puzzle game created using React and Redux.,mimstris,mimshwright/mimstris
+https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057,1221,JavaScript,113,Read the article of how to make JavaScript Tetris:,js-tetris,melcor76/js-tetris
+,912,JavaScript,108,:space_invader: The original TETRIS game simulator,tetris,ytiurin/tetris
+,1116,JavaScript,99,A vanilla javascript game,Tetris,kubowania/Tetris
+,166,JavaScript,96,Html5 Tetris game,Tetris,sandywalker/Tetris
+https://slugo.github.io/redux-tetris/,1075,JavaScript,96,Simple tetris clone made using React + Redux.,redux-tetris,slugo/redux-tetris
+https://tetrys.herokuapp.com,305,JavaScript,96,𝌶 Tetris as Progressive Web Application,tetrys,morkro/tetrys
+https://tetris.joshbassett.info,2880,JavaScript,96,A clone of the popular game Tetris.,tetris,nullobject/tetris
+,24,JavaScript,96,"This is the code for the ""How to Make an Evolutionary Tetris Bot"" by Siraj Raval on Youtube",How_to_make_an_evolutionary_tetris_bot,llSourcell/How_to_make_an_evolutionary_tetris_bot
+,389,JavaScript,90,,Tetris-AI-Javascript,Code-Bullet/Tetris-AI-Javascript
+www.smashinglabs.pl,96,JavaScript,76,3D Tetris implementation in WebGL,Threejs-Tetris,fridek/Threejs-Tetris
+https://sacert.github.io/Quick-Tetris/,1324,JavaScript,70,Built a quick version of Tetris.,Quick-Tetris,sacert/Quick-Tetris
+https://brandly.github.io/react-tetris/,1463,JavaScript,70,:video_game: by popular demand,react-tetris,brandly/react-tetris
+,8,JavaScript,63,"The Tetris game, created using JavaScript, and The HTML5 canvas.",Tetris-JavaScript,CodeExplainedRepo/Tetris-JavaScript
+,64,JavaScript,63,From rags to riches; building Tetris with no programming experience.,tetris-tutorial,jonhoo/tetris-tutorial
